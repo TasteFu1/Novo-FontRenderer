@@ -1,0 +1,64 @@
+[22:23:32] [Client thread/INFO]: Setting user: Player765
+[22:23:33] [Client thread/WARN]: Skipping bad option: lastServer:
+[22:23:33] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:23:33] [Client thread/INFO]: Reloading ResourceManager: Default
+[22:23:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:23:34] [Thread-2/INFO]: Initializing LWJGL OpenAL
+[22:23:34] [Thread-2/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:23:34] [Thread-2/INFO]: OpenAL initialized.
+[22:23:34] [Client thread/INFO]: Suitable font size is 70.399994 (Poppins Medium)
+[22:23:34] [Client thread/INFO]: Suitable font size is 70.399994 (Poppins Medium)
+[22:23:35] [Client thread/INFO]: Suitable font size is 74.59999 (Arial)
+[22:23:35] [Client thread/INFO]: Suitable font size is 74.59999 (Arial)
+[22:23:35] [Client thread/INFO]: Suitable font size is 74.59999 (Arial)
+[22:23:35] [Client thread/INFO]: Suitable font size is 74.59999 (Arial)
+[22:23:35] [Client thread/INFO]: Number of threads used for generating font images: 24
+[22:23:35] [Sound Library Loader/INFO]: Sound engine started
+[22:23:36] [Client thread/INFO]: Pre-rendering time for all textures: 983ms
+[22:23:36] [Client thread/INFO]: Total memory used for the current platform font images: 279MB
+[22:23:40] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:23:41] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[22:23:42] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[22:23:45] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[22:23:45] [Server thread/INFO]: Generating keypair
+[22:23:45] [Server thread/INFO]: Loaded 488 advancements
+[22:23:45] [Server thread/INFO]: Preparing start region for level 0
+[22:23:45] [Server thread/INFO]: Changing view distance to 8, from 10
+[22:23:45] [Server thread/INFO]: Player765[local:E:46c2d1aa] logged in with entity id 88 at (888.6755792779547, 10.0, 838.5918139475197)
+[22:23:45] [Server thread/INFO]: Player765 joined the game
+[22:23:46] [Server thread/INFO]: Saving and pausing game...
+[22:23:46] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:23:46] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[22:23:46] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[22:24:42] [Server thread/INFO]: <Player765> asd
+[22:24:42] [Client thread/INFO]: [CHAT] <Player765> asd
+[22:24:54] [Server thread/INFO]: <Player765> asdsa
+[22:24:54] [Client thread/INFO]: [CHAT] <Player765> asdsa
+[22:27:36] [Server thread/INFO]: <Player765> asd
+[22:27:36] [Client thread/INFO]: [CHAT] <Player765> asd
+[22:27:44] [Server thread/INFO]: <Player765> asdasd
+[22:27:44] [Client thread/INFO]: [CHAT] <Player765> asdasd
+[22:27:45] [Server thread/INFO]: <Player765> asdasd
+[22:27:45] [Client thread/INFO]: [CHAT] <Player765> asdasd
+[22:32:43] [Server thread/INFO]: <Player765> asdasd
+[22:32:43] [Client thread/INFO]: [CHAT] <Player765> asdasd
+[22:32:44] [Server thread/INFO]: Saving and pausing game...
+[22:32:44] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:32:44] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[22:32:44] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[22:33:25] [Server thread/INFO]: Saving and pausing game...
+[22:33:25] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:33:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[22:33:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[22:33:25] [Server thread/INFO]: Stopping server
+[22:33:25] [Server thread/INFO]: Saving players
+[22:33:26] [Server thread/INFO]: Player765 lost connection: Disconnected
+[22:33:26] [Server thread/INFO]: Player765 left the game
+[22:33:26] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:33:26] [Server thread/INFO]: Saving worlds
+[22:33:26] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:33:26] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[22:33:26] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[22:33:26] [Client thread/INFO]: Stopping!
+[22:33:26] [Client thread/INFO]: SoundSystem shutting down...
+[22:33:26] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

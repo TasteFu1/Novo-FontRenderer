@@ -1,0 +1,59 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 5/23/24 3:13 PM
+Description: Initializing game
+
+java.lang.NullPointerException: Initializing game
+	at bre.smoothfont.gui.GuiConfigScreen.initGui(GuiConfigScreen.java:53)
+	at net.minecraft.client.gui.GuiScreen.setWorldAndResolution(GuiScreen.java:440)
+	at net.minecraft.client.Minecraft.displayGuiScreen(Minecraft.java:1014)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:627)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:492)
+	at net.minecraft.client.main.Main.main(Main.java:115)
+	at Start.main(Start.java:11)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at bre.smoothfont.gui.GuiConfigScreen.initGui(GuiConfigScreen.java:53)
+	at net.minecraft.client.gui.GuiScreen.setWorldAndResolution(GuiScreen.java:440)
+	at net.minecraft.client.Minecraft.displayGuiScreen(Minecraft.java:1014)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:627)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.run(Minecraft.java:492)
+	at net.minecraft.client.main.Main.main(Main.java:115)
+	at Start.main(Start.java:11)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 1.8.0_401, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 587347808 bytes (560 MB) / 661127168 bytes (630 MB) up to 7615283200 bytes (7262 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Launched Version: mcp
+	LWJGL: 2.9.4
+	OpenGL: NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 551.86, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 24x AMD Ryzen 9 5900X 12-Core Processor 
